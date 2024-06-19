@@ -63,7 +63,7 @@ To run the project follow these steps:
   **1. Clone the repository:**
 
   ```
-  git clone https://github.com/AbhayKamath03/Student_Management_System.git
+  git clone https://github.com/AbhayKamath03/ATM-Simulator.git
   ```
 
 
